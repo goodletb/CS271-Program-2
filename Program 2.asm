@@ -8,8 +8,8 @@ INCLUDE Irvine32.inc
 
 
 	;constants
+.const
 	maxValue				dword		46
-
 
 .data
 	spaces					byte		"     ", 0
